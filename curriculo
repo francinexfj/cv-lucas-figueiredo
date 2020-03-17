@@ -8,7 +8,7 @@
         <header>
             <h1>Lucas Figueiredo – Desenvolvedor Web</h1>
             <p>Solteiro, 25 anos, Santos – SP</p>
-            <p><strong>+5513988543594</strong> - <a target="_blank" href="mail:lucas-fj@hotmail.com">lucas-fj@hotmail.com</a></p>
+            <p><strong>+5513988543594</strong> - <a target="blank" href="mail:lucas-fj@hotmail.com">lucas-fj@hotmail.com</a></p>
             <p>github.com/biglidio - linkedin.com/in/biglidio</p>
         </header>
         <main>
@@ -88,14 +88,16 @@
 
             <section>
                 <h2>Projetos</h2>
-                <p><strong>Fatec Rubens Lara</strong> - <a target="blank" href="http://www.fatecrl.edu.br">www.fatecrl.edu.br</a> - Full Stack com PHP</p>
-                <p><strong>Total Saúde SP</strong> - <a target="blank" href="http://www.totalsaudesp.com.br">www.totalsaudesp.com.br</a> - Full Stack com PHP</p>
-                <p><strong>Fikbella Perfumaria</strong> - <a target="blank" href="http://www.fikbella.com.br">www.fikbella.com.br</a> - Front-end com Magento</p>
-                <p><strong>Ecoplate Pisos</strong> - <a target="blank" href="http://www.ecoplatepisos.com.br">www.ecoplatepisos.com.br</a> - Back-end com PHP</p>
-                <p><strong>Meu Planejamento</strong> - <a target="blank" href="http://www.meuplanejamento.com.br">www.meuplanejamento.com.br</a> - Back-end com PHP</p>
-                <p><strong>Mindfulness Brasil</strong> - <a target="blank" href="http://www.mindfulnessbrasil.com">www.mindfulnessbrasil.com</a> - Back-end com PHP</p>
-                <p><strong>Consulta Certa</strong> - <a target="blank" href="http://www.consultacerta.com.br">www.consultacerta.com.br</a> - Back-end com PHP</p>
-                <p><strong>AMRother</strong> - <a target="blank" href="http://www.amrother.com.br">www.amrother.com.br</a> - Back-end com PHP</p>
+                <ul>
+                    <li><p><strong>Fatec Rubens Lara</strong> - <a target="blank" href="http://www.fatecrl.edu.br">www.fatecrl.edu.br</a> - Full Stack com PHP</p></li>
+                    <li><p><strong>Total Saúde SP</strong> - <a target="blank" href="http://www.totalsaudesp.com.br">www.totalsaudesp.com.br</a> - Full Stack com PHP</p></li>
+                    <li><p><strong>Fikbella Perfumaria</strong> - <a target="blank" href="http://www.fikbella.com.br">www.fikbella.com.br</a> - Front-end com Magento</p></li>
+                    <li><p><strong>Ecoplate Pisos</strong> - <a target="blank" href="http://www.ecoplatepisos.com.br">www.ecoplatepisos.com.br</a> - Back-end com PHP</p></li>
+                    <li><p><strong>Meu Planejamento</strong> - <a target="blank" href="http://www.meuplanejamento.com.br">www.meuplanejamento.com.br</a> - Back-end com PHP</p></li>
+                    <li><p><strong>Mindfulness Brasil</strong> - <a target="blank" href="http://www.mindfulnessbrasil.com">www.mindfulnessbrasil.com</a> - Back-end com PHP</p></li>
+                    <li><p><strong>Consulta Certa</strong> - <a target="blank" href="http://www.consultacerta.com.br">www.consultacerta.com.br</a> - Back-end com PHP</p></li>
+                    <li><p><strong>AMRother</strong> - <a target="blank" href="http://www.amrother.com.br">www.amrother.com.br</a> - Back-end com PHP</p></li>
+                </ul>        
             </section>
         </main>
     </body>
