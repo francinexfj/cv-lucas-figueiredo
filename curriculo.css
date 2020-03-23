@@ -42,4 +42,7 @@ section p {
     padding-left: 0px;
 }
 
-
+ul {
+    list-style-type: none;
+    padding-left: 1px;
+}
